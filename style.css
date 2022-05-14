@@ -1,0 +1,32 @@
+
+.caroselwords{
+  background-color: #FEFBB3;
+  color: black;
+  font-weight:bold;
+  font-family:Georgia;
+
+}
+
+footer{
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+h1{
+  text-align:center;
+  background-color:#BCB3FE;
+  font-family:Georgia
+}
+
+#petsbod{
+  background-color:#7EBAFB;
+}
+
+.pets{
+  font-family:Verdana;
+}
+
+p.answertrivia{
+  text-align:center;
+  background-color:#FEFCA2 ;
+}
